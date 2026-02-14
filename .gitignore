@@ -8,18 +8,10 @@ __pycache__/
 venv/
 env/
 .env/
-.venv/
-
-# Pliki testowe tymczasowe
-*.pytest_cache/
-*.coverage
-htmlcov/
 
 # IDE / edytory
 .vscode/
 .idea/
-*.sublime-project
-*.sublime-workspace
 
 # Systemowe
 .DS_Store
@@ -28,3 +20,5 @@ Thumbs.db
 # Logi i pliki tymczasowe
 *.log
 *.tmp
+
+
