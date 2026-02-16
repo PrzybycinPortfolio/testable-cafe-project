@@ -16,6 +16,11 @@ class Zamowienie:
         else:
             self.koszyk.append(produkt)
 
+    def drukuj_zamowienie(self):
+        return self.koszyk
+
+
+
 
 
 
