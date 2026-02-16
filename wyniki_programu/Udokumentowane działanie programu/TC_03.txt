@@ -1,0 +1,46 @@
+=== SYSTEM KAWIARNI v2.0 ===
+Podaj imię klienta: Nataniel
+Podaj datę urodzenia (RRRR-MM-DD): 2026-02-17
+
+Zalogowano pomyślnie!
+Klient: Nataniel (ID: 0), Ur.: 2026-02-17, Status: NIEPEŁNOLETNI
+
+==============================
+ID   | NAZWA                | CENA
+------------------------------
+[0] Espresso             | 8.00 PLN
+[1] Cappuccino           | 12.00 PLN
+[2] Latte                | 14.00 PLN
+[3] Ciasto czekoladowe   | 12.50 PLN
+[4] Croissant            | 9.00 PLN
+[5] Piwo jasne           | 12.00 PLN (18+)
+[6] Wino czerwone        | 25.00 PLN (18+)
+[7] Vodka 50ml           | 28.00 PLN (18+)
+
+Wpisz ID produktu, aby go dodać (lub 'ok' by skończyć): 0
+✅ Dodano: Espresso (Razem: 1)
+
+==============================
+ID   | NAZWA                | CENA
+------------------------------
+[0] Espresso             | 8.00 PLN
+[1] Cappuccino           | 12.00 PLN
+[2] Latte                | 14.00 PLN
+[3] Ciasto czekoladowe   | 12.50 PLN
+[4] Croissant            | 9.00 PLN
+[5] Piwo jasne           | 12.00 PLN (18+)
+[6] Wino czerwone        | 25.00 PLN (18+)
+[7] Vodka 50ml           | 28.00 PLN (18+)
+
+Wpisz ID produktu, aby go dodać (lub 'ok' by skończyć): ok
+
+==============================
+PARAGON: 2026-02-16 16:55
+Klient: Nataniel
+------------------------------
+Espresso        x 1 |   8.00 PLN
+------------------------------
+SUMA:                8.00 PLN
+==============================
+
+Process finished with exit code 0
