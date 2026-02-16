@@ -1,0 +1,39 @@
+=== SYSTEM KAWIARNI v2.0 ===
+Podaj imię klienta: Marcin 
+Podaj datę urodzenia (RRRR-MM-DD): 1998-01-21
+
+Zalogowano pomyślnie!
+Klient: Marcin  (ID: 0), Ur.: 1998-01-21, Status: PEŁNOLETNI
+
+==============================
+ID   | NAZWA                | CENA
+------------------------------
+[0] Espresso             | 8.00 PLN
+[1] Cappuccino           | 12.00 PLN
+[2] Latte                | 14.00 PLN
+[3] Ciasto czekoladowe   | 12.50 PLN
+[4] Croissant            | 9.00 PLN
+[5] Piwo jasne           | 12.00 PLN (18+)
+[6] Wino czerwone        | 25.00 PLN (18+)
+[7] Vodka 50ml           | 28.00 PLN (18+)
+
+Wpisz ID produktu, aby go dodać (lub 'ok' by skończyć): k
+❌ Błąd! Podaj numer ID lub wpisz 'ok'.
+
+==============================
+ID   | NAZWA                | CENA
+------------------------------
+[0] Espresso             | 8.00 PLN
+[1] Cappuccino           | 12.00 PLN
+[2] Latte                | 14.00 PLN
+[3] Ciasto czekoladowe   | 12.50 PLN
+[4] Croissant            | 9.00 PLN
+[5] Piwo jasne           | 12.00 PLN (18+)
+[6] Wino czerwone        | 25.00 PLN (18+)
+[7] Vodka 50ml           | 28.00 PLN (18+)
+
+Wpisz ID produktu, aby go dodać (lub 'ok' by skończyć): ok
+
+Koszyk jest pusty. Do widzenia!
+
+Process finished with exit code 0
