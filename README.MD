@@ -1,7 +1,7 @@
 # Cafe Order System – Portfolio Projekt (Junior Software Manual Tester)
 
 ## 📌 O projekcie
-Aplikacja konsolowa napisana w języku Python, symulująca system sprzedaży w kawiarni. Projekt został przygotowany jako **materiał dowodowy do procesów rekrutacyjnych**, mający na celu zaprezentowanie praktycznych umiejętności z zakresu manualnego zapewnienia jakości (QA).
+Aplikacja konsolowa napisana w języku Python, symulująca system sprzedaży w kawiarni. Projekt został przygotowany jako **materiał dowodowy do procesów rekrutacyjnych**, mający na celu zaprezentowanie praktycznych umiejętności z zakresu manualnego zapewnienia jakości.
 
 > [!NOTE]
 > Projekt ma charakter edukacyjny i demonstracyjny. Skupia się na wybranych modułach logiki biznesowej, aby ukazać sposób identyfikacji defektów oraz podejście do walidacji danych.
